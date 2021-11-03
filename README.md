@@ -12,4 +12,4 @@ To install HQPWV, run:
 
 `wget -O - https://raw.githubusercontent.com/lin-silas/pcp-hqpwv/main/hqpwv_install.sh | sh`
 
-Default web URL: (your-ip:8000)
+Default web URL: (your-pi-ip:8000)
